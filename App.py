@@ -1,1 +1,2 @@
-print("That's my firt App in github. ")
+g=input("how many chnges you've done ? ")
+print(f"you've done {g} changes.")
